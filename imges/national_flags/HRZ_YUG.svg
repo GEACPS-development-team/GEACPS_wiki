@@ -1,0 +1,16 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+	<title></title>
+	<style>
+		.s0 { fill: #dd0000 } 
+		.s1 { fill: #ffffff } 
+		.s2 { fill: #003893 } 
+		.s3 { fill: #036638 } 
+	</style>
+	<path id="Layer" class="s0" d="m0 0h900v600h-900z"/>
+	<path id="Layer" class="s1" d="m0 0h900v400h-900z"/>
+	<path id="Layer" class="s2" d="m0 0h900v200h-900z"/>
+	<g id="g6">
+		<path id="rect4" class="s3" d="m0 0h300v600h-300z"/>
+		<path id="path2746" class="s1" d="m149.3 209.3l12.9 59.2 51-32.7-32.8 50.9 59.2 12.9-59.2 12.9 32.8 51-51-32.7-12.9 59.1-12.9-59.1-51 32.7 32.7-51-59.1-12.9 59.1-12.9-32.7-50.9 51 32.7z"/>
+	</g>
+</svg>

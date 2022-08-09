@@ -1,0 +1,93 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+	<title></title>
+	<style>
+		.s0 { fill: #dd0000 } 
+		.s1 { fill: #ffffff } 
+		.s2 { fill: #003893 } 
+		.s3 { fill: #fff212 } 
+	</style>
+	<path id="Layer" class="s0" d="m0 0h900v600h-900z"/>
+	<path id="Layer" class="s1" d="m0 0h900v400h-900z"/>
+	<path id="Layer" class="s2" d="m0 0h900v200h-900z"/>
+	<g id="g6">
+		<path id="rect4" class="s2" d="m0 0h300v600h-300z"/>
+		<g id="s">
+			<g id="e">
+				<path id="t" class="s3" d="m159.5 219.8l-31.3-10.2 21.8-67z"/>
+				<path id="t" class="s3" d="m150 142.6l21.8 67-31.3 10.2z"/>
+			</g>
+			<g id="f">
+				<g id="e">
+					<path id="t" class="s3" d="m146.5 224.2v-32.9h70.5z"/>
+					<path id="t" class="s3" d="m217 191.3l-57 41.4-19.3-26.6z"/>
+				</g>
+				<g id="e">
+					<path id="t" class="s3" d="m146.3 202l19.3 26.6-57 41.5z"/>
+					<path id="t" class="s3" d="m108.6 270.1l21.7-67.1 31.3 10.2z"/>
+				</g>
+			</g>
+			<g id="f">
+				<g id="e">
+					<path id="t" class="s3" d="m138.4 213.2l31.3-10.2 21.7 67.1z"/>
+					<path id="t" class="s3" d="m191.4 270.1l-57-41.5 19.3-26.6z"/>
+				</g>
+				<g id="e">
+					<path id="t" class="s3" d="m159.3 206.1l-19.3 26.6-57-41.4z"/>
+					<path id="t" class="s3" d="m83 191.3h70.5v32.9z"/>
+				</g>
+			</g>
+		</g>
+		<g id="s">
+			<g id="e">
+				<path id="t" class="s3" d="m214.7 348.3l24.5-22 47.2 52.4z"/>
+				<path id="t" class="s3" d="m286.4 378.7l-69-14.6 6.8-32.2z"/>
+			</g>
+			<g id="f">
+				<g id="e">
+					<path id="t" class="s3" d="m217.4 334.9l28.5 16.5-35.3 61z"/>
+					<path id="t" class="s3" d="m210.6 412.4l-7.3-70.1 32.7-3.4z"/>
+				</g>
+				<g id="e">
+					<path id="t" class="s3" d="m236.7 345.7l-32.7 3.5-7.4-70.1z"/>
+					<path id="t" class="s3" d="m196.6 279.1l47.2 52.4-24.4 22z"/>
+				</g>
+			</g>
+			<g id="f">
+				<g id="e">
+					<path id="t" class="s3" d="m231 333.3l-6.9 32.2-68.9-14.7z"/>
+					<path id="t" class="s3" d="m155.2 350.8l64.4-28.6 13.4 30z"/>
+				</g>
+				<g id="e">
+					<path id="t" class="s3" d="m226.7 355l-13.4-30 64.4-28.7z"/>
+					<path id="t" class="s3" d="m277.7 296.3l-35.3 61.1-28.4-16.5z"/>
+				</g>
+			</g>
+		</g>
+		<g id="s">
+			<g id="e">
+				<path id="t" class="s3" d="m75.8 331.9l6.8 32.2-69 14.6z"/>
+				<path id="t" class="s3" d="m13.6 378.7l47.2-52.4 24.5 22z"/>
+			</g>
+			<g id="f">
+				<g id="e">
+					<path id="t" class="s3" d="m86 340.9l-28.4 16.5-35.3-61.1z"/>
+					<path id="t" class="s3" d="m22.3 296.3l64.4 28.7-13.4 30z"/>
+				</g>
+				<g id="e">
+					<path id="t" class="s3" d="m67 352.2l13.4-30 64.4 28.6z"/>
+					<path id="t" class="s3" d="m144.8 350.8l-68.9 14.7-6.9-32.2z"/>
+				</g>
+			</g>
+			<g id="f">
+				<g id="e">
+					<path id="t" class="s3" d="m80.6 353.5l-24.4-22 47.2-52.4z"/>
+					<path id="t" class="s3" d="m103.4 279.1l-7.4 70.1-32.7-3.5z"/>
+				</g>
+				<g id="e">
+					<path id="t" class="s3" d="m64 338.9l32.7 3.4-7.3 70.1z"/>
+					<path id="t" class="s3" d="m89.4 412.4l-35.3-61 28.5-16.5z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

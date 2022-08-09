@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 300" width="900" height="600">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #009a30 } 
+		.shp1 { fill: #cd0000 } 
+		.shp2 { fill: #ffd700 } 
+	</style>
+	<path id="rect9" class="shp0" d="M-75 0L525 0L525 150L-75 150L-75 0Z" />
+	<path id="rect11" class="shp1" d="M-75 150L525 150L525 300L-75 300L-75 150Z" />
+	<path id="path13" fill-rule="evenodd" class="shp2" d="M239.56 112L248.42 138.71L275 138.71L253.73 155.29L261.71 182L239.56 165.42L218.29 182L226.27 155.29L205 138.71L231.58 138.71L239.56 112Z" />
+	<path id="path21" fill-rule="evenodd" class="shp2" d="M240 210.49C232.58 213.19 224.23 215 215.88 215C179.69 215 150 186.11 150 150C150 113.89 179.69 85 215.88 85C224.23 85 232.58 86.81 240 89.51C237.22 88.61 235.36 88.61 233.51 88.61C207.53 88.61 186.19 116.6 186.19 150C186.19 183.4 207.53 211.39 233.51 211.39C235.36 211.39 238.14 211.39 240 210.49Z" />
+	<g id="g2986">
+	</g>
+</svg>

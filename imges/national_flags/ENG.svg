@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+	<style>
+		tspan { white-space:pre }.s0 { fill: #ffffff } .s1 { fill: #ce1124 } 
+	</style>
+	<path class="s0" d="m-50 0h1000v600h-1000v-600z" />
+	<g >
+		<path class="s1" d="m390 0h120v600h-120v-600z" />
+		<path class="s1" d="m-50 240h1000v120h-1000v-120z" />
+	</g>
+</svg>

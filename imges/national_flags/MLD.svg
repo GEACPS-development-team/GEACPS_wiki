@@ -1,0 +1,17 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #d21034 } 
+		.s1 { fill: #007e3a } 
+		.s2 { fill: #ffffff } 
+		.s3 { fill: #000000 } 
+	</style>
+	<path class="s0" d="m0 0h900v600h-900v-600z" />
+	<path class="s1" d="m750 150v300h-507v-300h507z" />
+	<path class="s2" d="m459 400c-55.3 0-100-44.7-100-100c0-55.3 44.7-100 100-100c55.3 0 100 44.7 100 100c0 55.3-44.7 100-100 100z" />
+	<path class="s1" d="m421.5 400c-55.3 0-100-44.7-100-100c0-55.3 44.7-100 100-100c55.3 0 100 44.7 100 100c0 55.3-44.7 100-100 100z" />
+	<g >
+		<path class="s2" d="m0 0h93v600h-93v-600z" />
+		<path class="s3" d="m0 6v-6h93v52.5l-93-46.5zm0 46.5l93 46.5v52.5l-93-46.5v-52.5zm0 99l93 46.5v52.5l-93-46.5v-52.5zm0 99l93 46.5v52.5l-93-46.5v-52.5zm0 99l93 46.5v52.5l-93-46.5v-52.5zm0 99l93 46.5v52.5l-93-46.5v-52.5zm0 99l93 46.5v6h-93v-52.5z" />
+	</g>
+</svg>

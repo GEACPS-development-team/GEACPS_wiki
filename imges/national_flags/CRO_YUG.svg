@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+	<style>
+		.s0 { fill: #dd0000 } 
+		.s1 { fill: #ffffff } 
+		.s2 { fill: #003893 } 
+	</style>
+	<path id="Layer" class="s0" d="m0 0h900v600h-900z" />
+	<path id="Layer" class="s1" d="m0 0h900v400h-900z" />
+	<path id="Layer" class="s2" d="m0 0h900v200h-900z" />
+	<path id="Layer" class="s1" d="m0 0h300v600h-300z" />
+	<path id="Layer" class="s0" d="m60 0h60v60h-60zm-60 60h60v60h-60zm120 0h60v60h-60zm60-60h60v60h-60zm60 60h60v60h-60zm-180 60h60v60h-60zm-60 60h60v60h-60zm120 0h60v60h-60zm60-60h60v60h-60zm60 60h60v60h-60zm-180 60h60v60h-60zm-60 60h60v60h-60zm120 0h60v60h-60zm60-60h60v60h-60zm60 60h60v60h-60zm-180 60h60v60h-60zm-60 60h60v60h-60zm120 0h60v60h-60zm60-60h60v60h-60zm60 60h60v60h-60zm-180 60h60v60h-60zm-60 60h60v60h-60zm120 0h60v60h-60zm60-60h60v60h-60zm60 60h60v60h-60z" />
+</svg>
