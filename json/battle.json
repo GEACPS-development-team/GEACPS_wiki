@@ -1,0 +1,85 @@
+[
+	{
+		"name": "日米戦争",
+		"conflict": "第二次世界大戦",
+		"date": "1941年12月8日 - ",
+		"place": "太平洋",
+		"result": "大日本帝国の勝利",
+		"combatant": [
+			["<img src='/images/national_flags/JAP.svg' height='10'>大日本帝国", "ハワイ王国"],
+			["<img src='/images/national_flags/USA.svg' height='10'>アメリカ合衆国", "<img src='/images/national_flags/PHI.svg' height='10'>フィリピン自治領", "ハワイ共和国"]
+		],
+		"commander": [
+			["<img src='/images/national_flags/JAP.svg' height='10'>昭和天皇", "<img src='/images/national_flags/JAP.svg' height='10'>東條英機"],
+			["<img src='/images/national_flags/USA.svg' height='10'>フランクリン・ルーズベルト", "<img src='/images/national_flags/USA.svg' height='10'>ハリー・トルーマン"]
+		],
+		"strength": [
+			[""],
+			[""]
+		],
+		"casualty": [
+			[""],
+			[""]
+		]
+	},
+	{
+		"name": "中ノ鳥島沖海戦",
+		"conflict": "<a href='日米戦争.html'>日米戦争</a>",
+		"date": "1941年12月8日 - ",
+		"place": "東京府小笠原庁沖ノ鳥島",
+		"result": ["大日本帝国の勝利", "日米戦争突入"],
+		"combatant": [
+			["大日本帝国", "・大日本帝国海軍"],
+			["アメリカ合衆国", "・合衆国海軍"]
+		],
+		"commander": [
+			["山口多聞"],
+			["ハズバンド・エドワード・キンメル"]
+		],
+		"strength": [
+			["-"],
+			["-"]
+		],
+		"casualty": [
+			[{
+				"sunk": [
+					"戦艦2隻", "空母1隻", "巡洋艦5隻", "駆逐艦29隻"
+				],
+				"damaged": [
+					"戦艦6隻", "空母5隻", "巡洋艦9隻", "駆逐艦34隻"
+				]
+			}],
+			[{
+				"sunk": [
+					"空母4隻", "巡洋艦6隻", "駆逐艦11隻"
+				],
+				"damaged": [
+					"戦艦3隻", "巡洋艦5隻", "駆逐艦21隻"
+				]
+			}]
+		]
+	},
+	{
+		"name": "ハワイ事変",
+		"conflict": "<a href='日米戦争.html'>日米戦争</a>",
+		"date": "1941年12月14日 - ",
+		"place": "ハワイ諸島",
+		"result": "ハワイ内戦",
+		"combatant": [
+			["ハワイ王国"],
+			["ハワイ共和国"]
+		],
+		"commander": [
+			[""],
+			[""]
+		],
+		"strength": [
+			[""],
+			[""]
+		],
+		"casualty": [
+			[""],
+			[""]
+		]
+	}
+]

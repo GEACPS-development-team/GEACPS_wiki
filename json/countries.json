@@ -1,0 +1,114 @@
+[
+	{
+		"name": "大日本帝国及び布哇王国",
+		"flag": "/images/national_flags/JAP.svg",
+		"emblem": [
+			"",
+			""
+		],
+		"infomation": {
+			"official_name": "大日本帝国及び布哇王国",
+			"abbreviation": "日布連合",
+			"tag": [
+				"JAP",
+				"HAW"
+			],
+			"motto": "日布一体",
+			"anthem": "君が代",
+			"official_language": [
+				"日本語",
+				"布哇語"
+			],
+			"capital": [
+				"東京",
+				"花瑠瑠"
+			],
+			"head_of_state": "今上天皇",
+			"head_of_government": [
+				"東條英機",
+				""
+			],
+			"form_of_government": [
+				"自由連合国",
+				"君主制連合国家",
+				"翼賛体制"
+			],
+			"ideology": "国家大衆主義",
+			"currency": "日本圓",
+			"establishment": "1945年",
+			"factory": "",
+			"population": ""
+		}
+	},
+	{
+		"name": "大日本帝国",
+		"flag": "",
+		"emblem": "",
+		"infomation": {
+			"official_name": "大日本帝国",
+			"abbreviation": "日本",
+			"tag": "JAP",
+			"motto": "東亜新秩序建設",
+			"anthem": "君が代",
+			"official_language": "日本語",
+			"capital": "東京",
+			"head_of_state": "今上天皇",
+			"head_of_government": "東條英機",
+			"form_of_government": [
+				"独立国",
+				"君主制単一国家",
+				"翼賛体制"
+			],
+			"ideology": "国家大衆主義",
+			"currency": "日本圓",
+			"establishment": [
+				"紀元前660年2月11日（建国）",
+				"1886年（明治維新）",
+				"1945年（日布連合成立）"
+			],
+			"factory": "",
+			"population": ""
+		}
+	},
+	{
+		"name": "日本領布哇王国",
+		"flag": "",
+		"emblem": "",
+		"infomation": {
+			"official_name": [
+				"Aupuni Mōʻī o Hawaiʻi",
+				"布哇王国"
+			],
+			"abbreviation": "布哇",
+			"tag": "HAW",
+			"motto": [
+				"Ua Mau ke Ea o ka ʻĀina i ka Pono",
+				"この地の民が、千代に八千代に"
+			],
+			"anthem": [
+				"Hawaiʻi ponoʻī",
+				"布哇の民"
+			],
+			"official_language": [
+				"日本語",
+				"布哇語"
+			],
+			"capital": "花瑠瑠",
+			"head_of_state": "",
+			"head_of_government": "",
+			"form_of_government": [
+				"独立国",
+				"君主制単一国家",
+				"翼賛体制"
+			],
+			"ideology": "国家大衆主義",
+			"currency": "布哇圓",
+			"establishment": [
+				"1795年（建国）",
+				"1945年（日布連合成立）"
+			],
+			"factory": "",
+			"population": ""
+		}
+	}
+]

@@ -1,0 +1,30 @@
+#table-of-content {
+	max-width: 250px;
+	border: 1px solid #404040;
+	padding: .5em 0.5em;
+}
+#table-of-content>summary{
+	border-bottom: 1px solid #404040;
+}
+#table-of-content>ol {
+	counter-reset: item;
+	list-style-type: none;
+	padding-left: 0;
+}
+
+#table-of-content>ol ol {
+	padding-left: 1em;
+}
+
+#table-of-content>li {
+	text-indent: -1.3em;
+	padding-left: 1.3em;
+}
+
+#table-of-content>li:before {
+	counter-increment: item;
+	content: counter(item)'.';
+	/* 以下は自由に装飾... */
+	padding-right: .5em;
+	font-weight: bold;
+}

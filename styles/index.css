@@ -4,8 +4,14 @@ body, html {
 }
 header {
 	color: #fff;
-	width: 80%;
+	width: 95%;
 	margin: 0 auto;
+}
+.main-content h2 {
+	border-bottom: 1px solid #404040;
+}
+.main-content h3 {
+	text-decoration: underline #404040;
 }
 .background {
 	position: relative;
@@ -16,10 +22,10 @@ header {
 	background-position: center center;
 	z-index: 2;
 	padding: 5em 0;
-	background-image: url("../imges/icon/background.png");
+	background-image: url("/images/icon/background.png");
 }
 .page-main {
-	width: 80%;
+	width: 95%;
 	color: #fff;
 	background-color: #000;
 	overflow: hidden;
@@ -60,4 +66,9 @@ table.wikitable caption,
 table.prettytable caption {
 	margin-left: inherit;
 	margin-right: inherit;
+}
+
+a{
+	color: #08d4f4;
+	text-decoration: none;
 }

@@ -1,0 +1,56 @@
+.infobox > table {	/* テーブル全体 */
+	margin: 0 1em 1em 0;
+	background: #404040;
+	border: 1px #b0313f solid;
+	border-collapse: collapse;
+	width: 320px;
+	table-layout: fixed;
+}
+
+.infobox > table > tbody> tr.title th{
+	font-size: 1.3em;
+}
+.infobox>table>tbody>tr.table2>th,
+.infobox>table>tbody>tr.table2 td {
+	padding: 0em;
+	line-height: 1.25;
+}
+
+.infobox > table > tbody > tr > th ,
+.infobox > table > tbody > tr > td {	/* 見出し・セル */
+	border: 1px #b0313f solid;
+	width: calc(100%/2);
+	vertical-align: top;
+	line-height:1.1;
+	padding: 10px;
+	font-size: 0.9em;
+}
+
+.infobox > table > tbody > tr > th {	/* 見出し */
+	background: #b0313f;
+	text-align: center;
+}
+
+table.infobox2{
+	border-collapse: collapse;
+	border: 0px solid;
+	width: 100%;
+}
+
+table.infobox2 th,
+table.infobox2 td{
+	border-width: 1px 0px;
+	border-color: #b0313f;
+	border-style: solid;
+	padding: 0.3em;
+	font-size: 1em;
+}
+
+table.infobox2 th{
+	text-align: left;
+}
+
+aside {
+	padding-left: 0.5rem;
+	float: right;
+}
