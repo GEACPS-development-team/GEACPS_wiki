@@ -1,4 +1,4 @@
-const url = "/json/battle.json";
+const url = "/GEACPS_wiki/json/battle.json";
 let result;
 
 function formatJSON(json) {

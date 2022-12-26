@@ -6,10 +6,10 @@ if (document.title != "GEACPS Wiki"){
 
 //header
 let headerImgHref = document.createElement('a');
-headerImgHref.href = '/ja/index.html';
+headerImgHref.href = '/GEACPS_wiki/ja/index.html';
 
 let headerImg = document.createElement('img');
-headerImg.src = '/images/icon/wiki_icon.png';
+headerImg.src = '/GEACPS_wiki/images/icon/wiki_icon.png';
 headerImg.alt = 'Wikiアイコン'
 
 let headerParent = document.getElementById("header");

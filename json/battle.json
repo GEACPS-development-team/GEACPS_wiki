@@ -6,12 +6,12 @@
 		"place": "太平洋",
 		"result": "大日本帝国の勝利",
 		"combatant": [
-			["<img src='/images/national_flags/JAP.svg' height='10'>大日本帝国", "ハワイ王国"],
-			["<img src='/images/national_flags/USA.svg' height='10'>アメリカ合衆国", "<img src='/images/national_flags/PHI.svg' height='10'>フィリピン自治領", "ハワイ共和国"]
+			["<img src='/GEACPS_wiki/images/national_flags/JAP.svg' height='10'>大日本帝国", "ハワイ王国"],
+			["<img src='/GEACPS_wiki/images/national_flags/USA.svg' height='10'>アメリカ合衆国", "<img src='/GEACPS_wiki/images/national_flags/PHI.svg' height='10'>フィリピン自治領", "ハワイ共和国"]
 		],
 		"commander": [
-			["<img src='/images/national_flags/JAP.svg' height='10'>昭和天皇", "<img src='/images/national_flags/JAP.svg' height='10'>東條英機"],
-			["<img src='/images/national_flags/USA.svg' height='10'>フランクリン・ルーズベルト", "<img src='/images/national_flags/USA.svg' height='10'>ハリー・トルーマン"]
+			["<img src='/GEACPS_wiki/images/national_flags/JAP.svg' height='10'>昭和天皇", "<img src='/GEACPS_wiki/images/national_flags/JAP.svg' height='10'>東條英機"],
+			["<img src='/GEACPS_wiki/images/national_flags/USA.svg' height='10'>フランクリン・ルーズベルト", "<img src='/GEACPS_wiki/images/national_flags/USA.svg' height='10'>ハリー・トルーマン"]
 		],
 		"strength": [
 			[""],
