@@ -1,0 +1,18 @@
+[
+	{
+		"name": "日英共同宣言",
+		"long_name": [
+			"日英共同宣言", "Anglo-Japanese Joint Declaration"
+		],
+		"type": "共同宣言",
+		"date_signed": "1942年04月01日",
+		"location_signed": "シンガポール",
+		"date_effective": "",
+		"parties": [
+			"大日本帝国", "大英帝国"
+		],
+		"language": [
+			"日本語", "英語"
+		]
+	}
+]
